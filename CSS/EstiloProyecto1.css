@@ -1,0 +1,171 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+
+header{
+    background-color: rgb(252, 252, 252);
+    border-bottom: 2px solid rgb(219, 220, 221);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+nav a{
+    padding: 3px;
+    color: rgb(194, 195, 196); 
+    text-decoration: none;
+}
+
+.titulo{
+    background-color: rgb(255, 255, 255);
+    padding: 0.09%;
+    border-radius: 8px;
+    opacity: 75%;
+}
+
+.presentacion{
+    border: 3px solid rgb(219, 220, 221);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-width: 3px 0px 3px 3px;
+}
+
+
+.contaninerA h1{
+    color: rgb(12, 12, 12); 
+}
+
+
+
+.contaninerA{
+    background-image: url(../Imagenes/Image6.png);
+    height: 750px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 54px;
+    margin-right: 54px;
+    margin-bottom: 20px;
+}
+
+.desA{
+    border: 3px solid rgb(219, 220, 221);
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-width: 3px 0px 3px 3px;
+}
+
+.containerb{
+    padding: 30px;
+    display:flex;
+    justify-content: center;
+}
+
+
+.interiores{
+    margin-top: 100px;
+    height: 750px;
+    margin-left: 54px;
+    margin-right: 54px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.interiores .img1{
+    width: 1340px;
+}
+
+
+
+
+
+.laterala{
+    margin-top: 100px;
+    height: 750px;
+    margin-left: 54px;
+    margin-right: 54px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.laterall .img2{
+    width: 1340px;
+}
+
+
+.lateral{
+    margin-top: 100px;
+    height: 750px;
+    margin-left: 54px;
+    margin-right: 54px;
+    display: flex;
+    justify-content: center;
+}
+
+.lateralb .img3{
+    width: 1340px;
+}
+
+.desc{ 
+    display: flex;
+    justify-content: center;
+    border: 3px solid rgb(219, 220, 221);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-width: 3px 0px 3px 3px;
+}
+
+.containerc{
+    padding: 50px;
+}
+
+.fondob{
+    margin-top: 100px;
+    height: 750px;
+    margin-left: 54px;
+    margin-right: 54px;
+    display: flex;
+    justify-content: center;
+}
+
+.fondob .img4{
+    width: 1340px;
+}
+
+.interiora{
+    margin-bottom: 50px;
+
+}
+
+.imagena{
+    margin-top: 100px;
+    height: 750px;
+    margin-left: 54px;
+    margin-right: 54px;
+    display: flex;
+    justify-content: center;
+}
+
+.imagena img{
+    width: 1340px;
+}
+
+.footer{
+    background-color: black;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer h4{
+    color: rgb(177, 176, 176);
+}
